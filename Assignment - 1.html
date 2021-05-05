@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="command.css">
+</head>
+<body style="background-image: url(https://i.pinimg.com/originals/b9/0d/4d/b90d4d3f6571e1f3a207541be8dc5963.png); background-repeat: no-repeat; background-size: 100%; font-size: 300%; color: white;">
+    
+    <table align="right" style="font-size: 60%;"><td><a href="#">HOME</a></td><td><td><td></td></td></td><td><a href="#">BEDROOM</a></td><td><td><td></td></td></td><td><a href="#">DINING</a></td><td><td><td></td></td></td><td><a href="#">KITCHEN</a> </td><td><td><td></td></td></td><td><a href="#">BACKYARD</a></td><td><td><td></td></td></td></table>
+        !Nterior
+        <h1 align = "center">DESIGN YOUR HOUSE</h1> 
+    <p align = "center">Subscribe Easy Tutorials YouTube Channel to watch more videos, 
+        press the bell icon to get latest updates.</p> 
+    <pre align = "center"><a href="#" class="btn"> WATCH MORE </a> <a href="#" class="btn"> SUBSCRIBE </a>
+    </pre>
+</body>
+</html>
